@@ -1,7 +1,7 @@
 {
-  "buildCommand": "cd frontend && npm run build",
-  "outputDirectory": "frontend/.next",
-  "installCommand": "cd frontend && npm install",
+  "buildCommand": "cd phanwha && npm run build",
+  "outputDirectory": "phanwha/.next",
+  "installCommand": "cd phanwha && npm install",
   "framework": "nextjs",
-  "rootDirectory": "frontend"
+  "rootDirectory": "phanwha"
 }
