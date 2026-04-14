@@ -1,7 +1,3 @@
 {
-  "buildCommand": "cd phanwha && npm run build",
-  "outputDirectory": "phanwha/.next",
-  "installCommand": "cd phanwha && npm install",
-  "framework": "nextjs",
-  "rootDirectory": "phanwha"
+  "framework": "nextjs"
 }

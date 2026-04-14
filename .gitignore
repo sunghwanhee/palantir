@@ -1,5 +1,7 @@
-phanwha/node_modules
-phanwha/.next
-phanwha/.env*.local
-phanwha/*.tsbuildinfo
+node_modules
+.next
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
 frontend/
+phanwha/
